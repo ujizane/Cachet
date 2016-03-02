@@ -50,7 +50,7 @@
                                         <input type="number" max="100" name="app_incident_days" class="form-control" value="{{ Config::get('setting.app_incident_days', 7) }}">
                                     </div>
                                 </div>
-                            </div>
+                            </div>                            
                             <div class="row">
                                 <div class="col-xs-12">
                                     <div class="checkbox">
